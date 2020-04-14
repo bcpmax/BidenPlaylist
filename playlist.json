@@ -1,6 +1,8 @@
 {
-  {
-    "name": "Biden and Bernie",
-    "link": "https://youtu.be/wmSPyocMRyw"
-  }
+  "playlist": [
+    {
+      "name": "Biden and Bernie",
+      "link": "https://youtu.be/wmSPyocMRyw"
+    }
+  ]
 }
