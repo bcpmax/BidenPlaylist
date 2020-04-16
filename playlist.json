@@ -1,12 +1,28 @@
 {
   "playlist": [
     {
-      "name": "Biden and Bernie",
+      "name": "Biden and Bernie Together",
       "videoid": "wmSPyocMRyw"
     },
     {
-      "name": "Barack Obama endorsed Joe",
+      "name": "Barack Obama is for Joe",
       "videoid": "5-s3ANu4eMs"
+    },
+    {
+      "name": "Elizabeth Warren is for Joe",
+      "videoid": "tT-Y-0QuByM"
+    },
+    {
+      "name": "Kamala Harris is for Joe",
+      "videoid": "Sa4htbPxva0"
+    },
+    {
+      "name": "Mayor Pete is for Joe",
+      "videoid": "9tbJ1w0bGs4"
+    },
+    {
+      "name": "Amy Klobuchar is for Joe",
+      "videoid": "eCzoYixE8zQ"
     }
   ]
 }
